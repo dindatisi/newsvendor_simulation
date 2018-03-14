@@ -7,7 +7,7 @@ high = 150
 price = 4
 cost = 2
 salvage_val = 0.5
-A_order = 100
+A_order = 107
 
 def main():
 	i = 0
